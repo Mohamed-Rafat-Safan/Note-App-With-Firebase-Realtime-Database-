@@ -47,13 +47,13 @@ When Open Any Note :
 When Select Any Note To Update OR Delete :
 
  <p align="center">
-<img src="https://user-images.githubusercontent.com/76782050/190857732-81fbbff1-310e-43f7-83ec-b1f9077d76a8.jpg" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/76782050/190857732-81fbbff1-310e-43f7-83ec-b1f9077d76a8.jpg" width="190" height="380" />
  <span> &nbsp;  &nbsp; </span>
-<img src="https://user-images.githubusercontent.com/76782050/190857734-4f6cc7ab-01bc-4590-82a5-b8db09986d2c.jpg" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/76782050/190857734-4f6cc7ab-01bc-4590-82a5-b8db09986d2c.jpg" width="190" height="380" />
  <span> &nbsp;  &nbsp; </span>
-<img src="https://user-images.githubusercontent.com/76782050/190857737-0ca511a7-cc5c-4bbb-8e9d-0ae9ddfa372d.jpg" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/76782050/190857737-0ca511a7-cc5c-4bbb-8e9d-0ae9ddfa372d.jpg" width="190" height="380" />
  <span> &nbsp;  &nbsp; </span>
-<img src="https://user-images.githubusercontent.com/76782050/190857738-b1ac232d-c87a-4d04-8c66-487892246dbd.jpg" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/76782050/190857738-b1ac232d-c87a-4d04-8c66-487892246dbd.jpg" width="190" height="380" />
 </p>
 
 
