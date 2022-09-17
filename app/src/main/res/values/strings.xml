@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <string name="addNewNote">Add New Note :</string>
+    <string name="delOrUpdate">Delete OR Update :</string>
+    <string name="hint_title">Enter Title</string>
+    <string name="hint_note">Enter Note</string>
+
+
+    <string name="btn_add">Add</string>
+    <string name="btn_delete">Delete</string>
+    <string name="btn_update">Update</string>
+
+
+
+
+</resources>

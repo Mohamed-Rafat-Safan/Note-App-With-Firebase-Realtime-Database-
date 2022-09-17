@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تطبيق ملاحظات</string>
+    <string name="addNewNote">اضافة ملحوظه جديده :</string>
+    <string name="delOrUpdate">حذف او تعديل :</string>
+    <string name="hint_title">ادخل العنوان</string>
+    <string name="hint_note">ادخل الملحوظه</string>
+
+
+    <string name="btn_add">اضافة</string>
+    <string name="btn_delete">حذف</string>
+    <string name="btn_update">تعديل</string>
+</resources>

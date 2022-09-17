@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="10dp">
+
+    <EditText
+        android:id="@+id/et_update_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/hint_title"
+        android:paddingStart="15dp"
+        android:textSize="25sp"
+        android:layout_marginBottom="30dp"
+        android:visibility="gone"/>
+
+    <EditText
+        android:id="@+id/et_update_note"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:hint="@string/hint_note"
+        android:paddingStart="15dp"
+        android:textSize="25sp"
+        android:layout_marginBottom="30dp"
+        android:visibility="gone"/>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:paddingVertical="10dp">
+        <Button
+            android:id="@+id/btn_delete"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_delete"
+            android:textAllCaps="false"
+            android:textSize="30sp"
+            android:paddingHorizontal="10dp"
+            android:layout_gravity="center"
+            android:background="#FA7F7F"
+            android:layout_marginHorizontal="10dp"/>
+
+        <Button
+            android:id="@+id/btn_update"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/btn_update"
+            android:textAllCaps="false"
+            android:textSize="30sp"
+            android:paddingHorizontal="10dp"
+            android:layout_gravity="center"
+            android:background="#88DF8C"
+            android:layout_marginHorizontal="10dp"/>
+    </LinearLayout>
+
+</LinearLayout>
