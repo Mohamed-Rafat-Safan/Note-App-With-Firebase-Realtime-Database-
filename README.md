@@ -16,13 +16,13 @@ Icone App and Home :
 When Add New Note Using AlertDialog : 
 
  <p align="center">
-<img src="https://user-images.githubusercontent.com/76782050/190857465-51fc8bdf-b179-4eb8-836b-b29c8f891d01.jpg" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/76782050/190857465-51fc8bdf-b179-4eb8-836b-b29c8f891d01.jpg" width="190" height="380"  />
  <span> &nbsp;  &nbsp; </span>
-<img src="https://user-images.githubusercontent.com/76782050/190857467-70bc5aa0-e470-4a65-a0f2-9c5b44d816ec.jpg" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/76782050/190857467-70bc5aa0-e470-4a65-a0f2-9c5b44d816ec.jpg" width="190" height="380"  />
  <span> &nbsp;  &nbsp; </span>
-<img src="https://user-images.githubusercontent.com/76782050/190857470-294d8cb0-f8dd-4cc4-8647-17755122ed64.jpg" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/76782050/190857470-294d8cb0-f8dd-4cc4-8647-17755122ed64.jpg" width="190" height="380"  />
  <span> &nbsp;  &nbsp; </span>
-<img src="https://user-images.githubusercontent.com/76782050/190857472-ac0e2371-8ae6-49b4-97af-ade9ce4b714e.jpg" width="200" height="400" />
+<img src="https://user-images.githubusercontent.com/76782050/190857472-ac0e2371-8ae6-49b4-97af-ade9ce4b714e.jpg" width="190" height="380"  />
 </p>
 
  <p align="center">
